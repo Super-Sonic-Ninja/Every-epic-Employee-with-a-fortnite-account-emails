@@ -4,6 +4,8 @@ tfue@epicgames.com
 
 solo@epicgames.com
 
+isaac@epicgames.com
+
 moose@epicgames.com
 
 ninja@epicgames.com
