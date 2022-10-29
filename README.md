@@ -114,6 +114,12 @@ Amnon.Israel@epicgames.com
 
 apple@epicgames.com
 
+epic@epicgames.com
+
+epicgames@epicgames.com
+
+epicgames.com@epicgames.com
+
 Warren.Drones@epicgames.com
 
 Matt.Madden@epicgames.com
