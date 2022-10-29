@@ -94,6 +94,8 @@ Harvey.Schwartz@epicgames.com
 
 Patrick.Hallenbeck@epicgames.com
 
+one@epicgames.com
+
 Lorelle.Torkewitz@epicgames.com
 
 Casey.Spencer@epicgames.com
@@ -167,6 +169,34 @@ MaryAnn.Hotchkiss@epicgames.com
 Anjana.Tirkey@epicgames.com
 
 Kim.Malone-Moore@epicgames.com
+
+a@epicgames.com
+
+c@epicgames.com
+
+d@epicgames.com
+
+e@epicgames.com
+
+j@epicgames.com
+
+k@epicgames.com
+
+l@epicgames.com
+
+p@epicgames.com
+
+r@epicgames.com
+
+s@epicgames.com
+
+t@epicgames.com
+
+v@epicgames.com
+
+w@epicgames.com
+
+x@epicgames.com
 
 Sean.Yeo@epicgames.com
 
