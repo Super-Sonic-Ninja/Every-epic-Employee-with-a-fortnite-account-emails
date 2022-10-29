@@ -100,6 +100,8 @@ Casey.Spencer@epicgames.com
 
 Elmer.Bol@epicgames.com
 
+fortnite@epicgames.com
+
 Alex.Giaimo@epicgames.com
 
 Lynn.Bartsch@epicgames.com
