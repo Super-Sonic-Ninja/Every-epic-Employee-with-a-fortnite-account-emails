@@ -136,6 +136,10 @@ Shawn.Dunn@epicgames.com
 
 Rod.Bogart@epicgames.com
 
+black@epicgames.com
+
+youtube@epicgames.com
+
 Clinton.Butler@epicgames.com
 
 LaShawn.Clements@epicgames.com
