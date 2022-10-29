@@ -2,6 +2,8 @@ Every email registered under @epicgames.com that has a fortnite account (Must be
 
 moose@epicgames.com
 
+ninja@epicgames.com
+
 donaldmustard@epicgames.com
 
 donald.mustard@epicgames.com
