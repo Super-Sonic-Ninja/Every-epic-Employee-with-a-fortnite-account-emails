@@ -2,6 +2,8 @@ Every email registered under @epicgames.com that has a fortnite account (Must be
 
 tfue@epicgames.com
 
+solo@epicgames.com
+
 moose@epicgames.com
 
 ninja@epicgames.com
