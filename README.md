@@ -2,6 +2,8 @@ Every email registered under @epicgames.com that has a fortnite account (Must be
 
 sergey.galyonkin@epicgames.com
 
+boomer@epicgames.com
+
 george.dobrodeev@epicgames.com
 
 sabrina.strong@epicgames.com
