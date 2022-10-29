@@ -1,5 +1,7 @@
 Every email registered under @epicgames.com that has a fortnite account (Must be Enabled)
 
+moose@epicgames.com
+
 administrator@epicgames.com
 
 sergey.galyonkin@epicgames.com
