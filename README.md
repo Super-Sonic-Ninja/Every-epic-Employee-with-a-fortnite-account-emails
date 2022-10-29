@@ -70,6 +70,8 @@ Chris.Babcock@epicgames.com
 
 Aaron.Vlk@epicgames.com
 
+faze@epicgames.com
+
 Lei.Wang@epicgames.com
 
 David.Pacanowsky@epicgames.com
@@ -101,6 +103,8 @@ Elmer.Bol@epicgames.com
 Alex.Giaimo@epicgames.com
 
 Lynn.Bartsch@epicgames.com
+
+Default@epicgames.com
 
 Amnon.Israel@epicgames.com
 
